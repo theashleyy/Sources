@@ -1,0 +1,37 @@
+Beaussant Cohen, S., Fenneteau, O., Plouvier, E. et al. Description and outcome of a cohort of 8 patients with WHIM syndrome from the French Severe Chronic Neutropenia Registry. Orphanet J Rare Dis 7, 71 (2012). https://doi.org/10.1186/1750-1172-7-71
+
+CITATION DOWNLOAD 4/30/24
+TY  - JOUR
+AU  - Beaussant Cohen, Sarah
+AU  - Fenneteau, Odile
+AU  - Plouvier, Emmanuel
+AU  - Rohrlich, Pierre-Simon
+AU  - Daltroff, Gerard
+AU  - Plantier, Isabelle
+AU  - Dupuy, Alain
+AU  - Kerob, Delphine
+AU  - Beaupain, Blandine
+AU  - Bordigoni, Pierre
+AU  - Fouyssac, Fanny
+AU  - Delezoide, Anne-Lise
+AU  - Devouassoux, Gilles
+AU  - Nicolas, Jean François
+AU  - Bensaid, Philippe
+AU  - Bertrand, Yves
+AU  - Balabanian, Karl
+AU  - Chantelot, Christine Bellanne
+AU  - Bachelerie, Françoise
+AU  - Donadieu, Jean
+PY  - 2012
+DA  - 2012/09/25
+TI  - Description and outcome of a cohort of 8 patients with WHIM syndrome from the French Severe Chronic Neutropenia Registry
+JO  - Orphanet Journal of Rare Diseases
+SP  - 71
+VL  - 7
+IS  - 1
+AB  - WHIM syndrome (WS), a rare congenital neutropenia due to mutations of the CXCR4 chemokine receptor, is associated with Human Papillomavirus (HPV)-induced Warts, Hypogammaglobulinemia, bacterial Infections and Myelokathexis. The long term follow up of eight patients highlights the clinical heterogeneity of this disease as well as the main therapeutic approaches and remaining challenges in the light of the recent development of new CXCR4 inhibitors.
+SN  - 1750-1172
+UR  - https://doi.org/10.1186/1750-1172-7-71
+DO  - 10.1186/1750-1172-7-71
+ID  - Beaussant Cohen2012
+ER  - 
